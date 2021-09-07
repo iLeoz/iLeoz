@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Leandro Lima, and i'm studying computer science 
-- 🌱 I’m currently learning about the world of front end
+É isso
 
 <!---
 iLeoz/iLeoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
